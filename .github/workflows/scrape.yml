@@ -15,6 +15,9 @@ jobs:
     - name: Fetch latest data
       run: |-
        curl -X 'GET' 'https://www.giessen.de/index.php?object=tx,2874.5&ModID=7&FID=2874.74601.1' -o giessen.de.index.html
+    - name: Install deps
+      run: |-
+       python -m pip install -r requirements.txt
     - name: Parse and write content only
       run: |-
        python bin/content-only.py
