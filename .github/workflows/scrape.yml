@@ -16,6 +16,7 @@ jobs:
       run: |-
        curl -X 'GET' 'https://www.giessen.de/index.php?object=tx,2874.5&ModID=7&FID=2874.74601.1' -o giessen.de.index.html
     - name: Parse and write content only
+      run: |-
        python bin/content-only.py
     - name: Commit and push if it changed
       run: |-
