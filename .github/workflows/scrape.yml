@@ -23,7 +23,7 @@ jobs:
        python bin/content-only.py
     - uses: docker://pandoc/core:3.8
       with:
-        args: "-f html -t gfm-raw_html giessen.de/faq.content-only.html > giessen.de/faq.content-only.md" # gets appended to pandoc command
+        args: "-f html -t gfm-raw_html giessen.de/faq.content-only.html -o giessen.de/faq.content-only.md" # gets appended to pandoc command
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
