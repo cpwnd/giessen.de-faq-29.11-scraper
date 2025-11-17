@@ -182,6 +182,9 @@ Der Parkplatz auf dem Messeplatz an der Ringallee wird nicht zur
 Verfügung stehen, da er als Standplatz für die ankommenden Reisebusse
 der Versammlungsteilnehmer/innen genutzt werden muss.
 
+Dafür stehen am Samstag und Sonntag die Parkanlagen der THM an der
+Ringallee für die Öffentlichkeit zur Verfügung. 
+
 ### Situation in der Weststadt (rund um die Hessenhallen)
 
 ## Wie komme ich an diesen Tagen in die Weststadt und über die Lahn?
