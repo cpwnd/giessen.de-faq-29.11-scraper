@@ -276,6 +276,8 @@ Folgende Hallen sind von Freitag bis einschließlich Sonntag geschlossen:
 - Gymnastikraum 2 Ricarda-Huch-Schule (Dammstraße 26, 35390 Gießen)
 - Turnhalle 3 Ricarda-Huch-Schule (Schillerstraße 5, 35390 Gießen)
 
+------------------------------------------------------------------------
+
 In Wieseck ist der Sportbetrieb wie folgt geregelt:
 
 Das große Fußball-Jugendturnier in der Sporthalle Wieseck am 29.
@@ -290,6 +292,13 @@ Der Basketball-Spielbetrieb findet am 30. November regulär in der
 Sporthalle statt. Gastmannschaften werden darauf hingewiesen, zum Parken
 ggf. auf die Seitenstraßen auszuweichen, falls der Parkplatz noch belegt
 ist.
+
+------------------------------------------------------------------------
+
+Das Wasserschifffahrtsamt hat die Lahn ab dem Klärwerk bis zum
+Christoph-Rübsamen-Steg gesperrt ab Donnerstag, dem 27. November. Ruder-
+und Wassersportbetrieb ist damit nicht möglich bei den Vereinen
+unterhalb des Rübsamensteges.
 
   
 
