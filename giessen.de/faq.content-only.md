@@ -1,6 +1,6 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 19.11.2025 um 07:56 Uhr –*
+*– Zuletzt aktualisiert am 19.11.2025 um 15:00 Uhr –*
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
 Aufmerksamkeit. Am 29. / 30. November 2025 will die AfD ihre
@@ -207,6 +207,17 @@ Gleiches gilt für das Klinkel’sche Wehr und den Rübsamensteg.
 Eine Zu- und Abfahrt für die Weststadt mit dem Auto in beziehungsweise
 aus Richtung Wettenberg ist daher voraussichtlich nur über die
 Krofdorfer Straße möglich.
+
+## Ich soll meinen Ausweis mitnehmen - warum?
+
+Die Sachsenhäuser Brücke wird voraussichtlich für den Fuß- und
+Radverkehr von Anwohner/innen der Weststadt geöffnet bleiben. Die Stadt
+bittet darum, beim Passieren der Brücke ein Ausweisdokument mit
+Adressnachweis mitzuführen. Dieser gilt als Nachweis dafür, dass ein
+berechtiges Interesse besteht, die Weststadt zu betreten oder zu
+passieren.
+
+Gleiches gilt für das Klinkel’sche Wehr und den Rübsamensteg.
 
 ## Wie komme ich zum Einkauf zum Gewerbegebiet West?
 
