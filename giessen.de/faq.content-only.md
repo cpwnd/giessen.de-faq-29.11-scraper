@@ -198,9 +198,9 @@ müssen. Damit reagieren die Sicherheitskräfte auf von Protestbewegungen
 bereits angekündigte Aktionen rund um die Hessenhallen.
 
 Die Sachsenhäuser Brücke wird voraussichtlich für den Fuß- und
-Radverkehr von Anwohner/innen der Weststadt geöffnet bleiben. Die Stadt
-bittet darum, beim Passieren der Brücke ein Ausweisdokument mit
-Adressnachweis mitzuführen.
+Radverkehr von Anwohner/innen der Weststadt geöffnet bleiben. **Die
+Stadt bittet darum, beim Passieren der Brücke ein Ausweisdokument mit
+Adressnachweis mitzuführen.**
 
 Gleiches gilt für das Klinkel’sche Wehr und den Rübsamensteg.
 
