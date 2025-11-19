@@ -1,5 +1,7 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
+– Zuletzt aktualisiert am 19.11.2025 um 07:56 Uhr –
+
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
 Aufmerksamkeit. Am 29. / 30. November 2025 will die AfD ihre
 Jugendorganisation in den Hessenhallen in Gießen gründen. Dagegen regt
@@ -53,7 +55,7 @@ Versammlungsfreiheit sind die wichtigsten Pfeiler unserer Demokratie.
 Der Magistrat bekennt sich deshalb ausdrücklich dazu, die friedliche
 Ausübung der Grundrechte zu wahren und zu garantieren.
 
-##  Was sagt die Stadtpolitik dazu?
+## Was sagt die Stadtpolitik dazu?
 
 Die Stadtverordnetenversammlung will mit der Resolution „Gießen steht
 zusammen: Gemeinsam für Demokratie und Vielfalt - gegen Extremismus“ -
@@ -190,17 +192,21 @@ Ringallee für die Öffentlichkeit zur Verfügung. 
 ## Wie komme ich an diesen Tagen in die Weststadt und über die Lahn?
 
 Stand jetzt werden beide Lahnbrücken (Sachsenhäuser Brücke, Rodheimer
-Straße und Konrad-Adenauer-Brücke, Heuchelheimer Straße) für die Dauer
-des polizeilichen Einsatzes gesperrt werden müssen. Damit reagieren die
-Sicherheitskräfte auf von Protestbewegungen bereits angekündigte
-Aktionen rund um die Hessenhallen.
+Straße und Konrad-Adenauer-Brücke, Heuchelheimer Straße) ab dem frühen
+Freitagabend für die Dauer des polizeilichen Einsatzes gesperrt werden
+müssen. Damit reagieren die Sicherheitskräfte auf von Protestbewegungen
+bereits angekündigte Aktionen rund um die Hessenhallen.
 
-Eine Zu- und Abfahrt für die Weststadt in beziehungsweise aus Richtung
-Wettenberg ist daher voraussichtlich nur über die Krofdorfer Straße
-möglich.
+Die Sachsenhäuser Brücke wird voraussichtlich für den Fuß- und
+Radverkehr von Anwohner/innen der Weststadt geöffnet bleiben. Die Stadt
+bittet darum, beim Passieren der Brücke ein Ausweisdokument mit
+Adressnachweis mitzuführen.
 
-Nähere Informationen zu den Sperrungen werden hier demnächst
-veröffentlicht.
+Gleiches gilt für das Klinkel’sche Wehr und den Rübsamensteg.
+
+Eine Zu- und Abfahrt für die Weststadt mit dem Auto in beziehungsweise
+aus Richtung Wettenberg ist daher voraussichtlich nur über die
+Krofdorfer Straße möglich.
 
 ## Wie komme ich zum Einkauf zum Gewerbegebiet West?
 
