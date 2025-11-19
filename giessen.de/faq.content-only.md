@@ -1,6 +1,6 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-– Zuletzt aktualisiert am 19.11.2025 um 07:56 Uhr –
+*– Zuletzt aktualisiert am 19.11.2025 um 07:56 Uhr –*
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
 Aufmerksamkeit. Am 29. / 30. November 2025 will die AfD ihre
@@ -323,6 +323,8 @@ Freundes- und Bekanntenkreis.
 
 Ja. Vor dem Veranstaltungswochenende werden wir eine Hotline einrichten.
 Die Nummer und den Zeitpunkt geben wir zuvor bekannt.
+
+ 
 
 [  
 ](/index.php?La=1&ffmod=frm&object=frm,2874.89.1&FID=2874.89.1)
