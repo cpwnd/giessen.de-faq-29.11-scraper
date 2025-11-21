@@ -1,6 +1,8 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 19.11.2025 um 15:00 Uhr –*
+*– Zuletzt aktualisiert am 21.11.2025 um 07:58 Uhr, Letzte Änderungen:
+Situation in der Weststadt; Schule und Sport –  
+*
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
 Aufmerksamkeit. Am 29. / 30. November 2025 will die AfD ihre
@@ -317,7 +319,10 @@ Christoph-Rübsamen-Steg gesperrt ab Donnerstag, dem 27. November. Ruder-
 und Wassersportbetrieb ist damit nicht möglich bei den Vereinen
 unterhalb des Rübsamensteges.
 
-  
+------------------------------------------------------------------------
+
+DIe beiden Schwimmbäder Westbad Gießen Badezentrum Ringallee bleiben ab
+Freitag 14 Uhr bis einschließlich Sonntag geschlossen.
 
 ### Informationen und Kommunikation
 
