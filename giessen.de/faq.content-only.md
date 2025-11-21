@@ -20,7 +20,13 @@ regelmäßig ändern. Um auf dem aktuellen Stand zu bleiben, bitten wir Sie
 deshalb, diese Seite regelmäßig zu prüfen und uns auf unseren Social
 Media Kanälen zu folgen.
 
-  
+Möchten Sie Inhalte von YouTube laden?
+
+[Mehr dazu in unserer Datenschutzerklärung.](/Datenschutz)
+
+OK
+
+ 
 
 Allgemeine Informationen zu den Veranstaltungen und Versammlungen
 
