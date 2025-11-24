@@ -348,5 +348,36 @@ Die Nummer und den Zeitpunkt geben wir zuvor bekannt.
 
  
 
+## Kontakt für Fragen
+
+**Nutzen Sie dieses Kontaktformular, wenn Sie Fragen haben, die nicht in
+unseren FAQs beantwortet wurden. **
+
+Kontakt
+
+Ihr Name\*
+
+Ihre E-Mail-Adresse\*
+
+Ihre Frage\*
+
+## Datenschutzhinweis\*
+
+Es ist mir bewusst, dass die hier freiwillig erfassten Daten
+automatisiert verarbeitet werden. Ich stimme zu, dass die Stadt Gießen
+meine auf diese Weise übermittelten personenbezogenen Daten
+ausschließlich für den Zweck, zu dem ich sie bei der Kontaktierung zur
+Verfügung gestellt habe, verwendet. Weitere Hinweise zur Datenerhebung
+und -speicherung in der
+[Datenschutzerklärung](/Kurzmen%C3%BC/Datenschutz/). 
+
+Datenschutzhinweis gelesen
+
+ 
+
+   
+
+(Mit \* gekennzeichnete Felder sind Pflichtfelder)
+
 [  
 ](/index.php?La=1&ffmod=frm&object=frm,2874.89.1&FID=2874.89.1)
