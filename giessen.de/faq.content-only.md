@@ -1,7 +1,7 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 21.11.2025 um 07:58 Uhr, Letzte Änderungen:
-Situation in der Weststadt; Schule und Sport –  
+*– Zuletzt aktualisiert am 24.11.2025 um 12:30 Uhr, Letzte Änderungen:
+Kontakt (Hotline); Schule und Sport; Situation in der Weststadt –  
 *
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
@@ -272,9 +272,9 @@ dem Rathausvorplatz geschlossen.
 
 ## Werden die Veranstaltungen Auswirkungen auf die Gießener Schulen haben?
 
-In geringem Maße. Die Schulen in Trägerschaft der Stadt Gießen werden am
-Freitag, 28. November 2025 den möglichen Nachmittagsunterricht sowie die
-Ganztagsbetreuung bereits um 15 Uhr beenden. Damit soll es allen
+Der Unterricht am Freitag, den 28.11.2025, endet in den Schulen in
+Trägerschaft der Stadt Gießen spätestens um 13:00 Uhr. Das schließt auch
+das Betreuungsangebot für den Nachmittag mit ein. Damit soll es allen
 Schüler/innen (gerade auch den auswärtigen Schüler/innen) ermöglicht
 werden, zuverlässig zum Beispiel mit dem Bus bei Tageslicht nach Hause
 zu kommen.
@@ -350,8 +350,16 @@ Die Nummer und den Zeitpunkt geben wir zuvor bekannt.
 
 ## Kontakt für Fragen
 
-**Nutzen Sie dieses Kontaktformular, wenn Sie Fragen haben, die nicht in
-unseren FAQs beantwortet wurden. **
+Unsere gemeinsame **Hotline mit der Polizei** steht Ihnen montags bis
+mittwochs von 8 bis 16 Uhr sowie donnerstags bis sonntags von 8 bis 20
+Uhr für Fragen, die nicht in unseren FAQs beantwortet wurden, zur
+Verfügung:
+
+### **0641 306 1122**
+
+------------------------------------------------------------------------
+
+**Alternativ können Sie gerne unser Kontaktformular nutzen: **
 
 Kontakt
 
