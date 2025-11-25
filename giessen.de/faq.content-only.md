@@ -169,12 +169,25 @@ aus allen Stadtteilen und den meisten Wohngebieten soweit wie möglich
 gewährleisten. In der Weststadt wird Stand jetzt kein Busverkehr mehr
 möglich sein.
 
-Für die Regional- und Umlandbusse wird zurzeit ein Konzept erarbeitet.
-
 Der Bahnverkehr wird nach jetzigem Kenntnisstand der Stadt planmäßig
 verkehren können.
 
-Details werden hier demächst bekanntgegeben.
+Am Samstag, 28. November, und Sonntag, 29. November 2025, stehen die
+Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
+(Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
+Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
+Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
+Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
+von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
+Minuten Busse in Richtugn Innenstadt fahren (Philosophikum I und II:
+Haltestelle „Philosophikum“, Kreisverwaltung: Haltestelle
+„Kreisverwaltung“, Juridikum: Haltestelle „Friedensstraße“,
+Naturwissenschaften: Haltestelle „Naturwissenschaften“). In der
+Grünberger Straße wird in der Nähe des Berliner Platzes eine zentrale
+Ersatzhaltestelle eingerichtet.
+
+Der P+R-Shuttle ist wie der gesamte Busverkehr in der Stadt Gießen am
+Samstag und Sonntag kostenlos nutzbar.
 
 ## Wo gibt es Parkplätze, wenn ich die Innenstadt besuchen will?
 
@@ -185,15 +198,29 @@ sind:
 - Parkhaus Neustädter
 - Parkhaus Am Kino (Am Alten Gaswerk 5) über die Roonstraße
 
-Derzeit wird ein Park+Ride-Angebot erarbeitet. Nähere Informationen
-werden demnächst bekanntgegeben.
-
 Der Parkplatz auf dem Messeplatz an der Ringallee wird nicht zur
 Verfügung stehen, da er als Standplatz für die ankommenden Reisebusse
 der Versammlungsteilnehmer/innen genutzt werden muss.
 
 Dafür stehen am Samstag und Sonntag die Parkanlagen der THM an der
 Ringallee für die Öffentlichkeit zur Verfügung. 
+
+Am Samstag, 28. November, und Sonntag, 29. November 2025, stehen die
+Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
+(Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
+Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
+Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
+Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
+von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
+Minuten Busse in Richtugn Innenstadt fahren (Philosophikum I und II:
+Haltestelle „Philosophikum“, Kreisverwaltung: Haltestelle
+„Kreisverwaltung“, Juridikum: Haltestelle „Friedensstraße“,
+Naturwissenschaften: Haltestelle „Naturwissenschaften“). In der
+Grünberger Straße wird in der Nähe des Berliner Platzes eine zentrale
+Ersatzhaltestelle eingerichtet.
+
+Der P+R-Shuttle ist wie der gesamte Busverkehr in der Stadt Gießen am
+Samstag und Sonntag kostenlos nutzbar.
 
 ### Situation in der Weststadt (rund um die Hessenhallen)
 
@@ -381,6 +408,12 @@ Datenschutzhinweis gelesen
 ------------------------------------------------------------------------
 
 ### Alle Pressemitteilungen der Stadt zum Thema 
+
+25.11.2025
+
+#### [Park+Ride-Shuttleservice in die Gießener Innenstadt am letzten Novemberwochenende](/Rathaus/Newsroom/Aktuelle-Meldungen/Park-Ride-Shuttleservice-in-die-Gie%C3%9Fener-Innenstadt-am-letzten-Novemberwochenende.php?object=tx,2874.5&ModID=7&FID=2874.74741.1&NavID=1894.87.1)
+
+------------------------------------------------------------------------
 
 25.11.2025
 
