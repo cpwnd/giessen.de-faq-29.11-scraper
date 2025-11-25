@@ -332,21 +332,12 @@ Freitag 14 Uhr bis einschließlich Sonntag geschlossen.
 
 ### Informationen und Kommunikation
 
-## Wo finde ich aktuelle Informationen zur Lage am 29./30. November?
-
-Bitte informieren Sie sich regelmäßig hier und über das
-[Informationsangebot der
+Bitte informieren Sie sich regelmäßig hier und über
+das [Informationsangebot der
 Polizei](/redirect.phtml?extlink=1&La=1&url_fid=2874.5009.1 "Externer Link"). Beide
 Seiten werden regelmäßig aktualisiert. Folgen Sie auch unseren Social
 Media Kanälen und teilen Sie die Informationen gerne im Familien-,
 Freundes- und Bekanntenkreis.
-
-## Wird es ein Bürgertelefon oder eine Hotline geben?
-
-Ja. Vor dem Veranstaltungswochenende werden wir eine Hotline einrichten.
-Die Nummer und den Zeitpunkt geben wir zuvor bekannt.
-
- 
 
 ## Kontakt für Fragen
 
@@ -387,5 +378,22 @@ Datenschutzhinweis gelesen
 
 (Mit \* gekennzeichnete Felder sind Pflichtfelder)
 
-[  
-](/index.php?La=1&ffmod=frm&object=frm,2874.89.1&FID=2874.89.1)
+------------------------------------------------------------------------
+
+### Alle Pressemitteilungen der Stadt zum Thema 
+
+25.11.2025
+
+#### [AfD-Jugendgründung und Proteste: Hotline und Kontaktformular für Fragen](/Rathaus/Newsroom/Aktuelle-Meldungen/AfD-Jugendgr%C3%BCndung-und-Proteste-Hotline-und-Kontaktformular-f%C3%BCr-Fragen.php?object=tx,2874.5&ModID=7&FID=2874.74735.1&NavID=1894.87.1)
+
+------------------------------------------------------------------------
+
+21.11.2025
+
+#### [Versammlungen räumlich begrenzt: Im Bereich der Hessenhallen ist das Demonstrieren zu gefährlich](/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungen-r%C3%A4umlich-begrenzt-Im-Bereich-der-Hessenhallen-ist-das-Demonstrieren-zu-gef%C3%A4hrlich.php?object=tx,2874.5&ModID=7&FID=2874.74719.1&NavID=1894.87.1)
+
+------------------------------------------------------------------------
+
+21.11.2025
+
+#### [Oberbürgermeister Frank-Tilo Becher bezieht Stellung zum letzten Novemberwochenende](/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Frank-Tilo-Becher-bezieht-Stellung-zum-letzten-Novemberwochenende.php?object=tx,2874.5&ModID=7&FID=2874.74717.1&NavID=1894.87.1)
