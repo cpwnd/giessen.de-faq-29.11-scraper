@@ -422,6 +422,12 @@ Datenschutzhinweis gelesen
 
 ### Alle Pressemitteilungen der Stadt zum Thema 
 
+26.11.2025
+
+#### [Verwaltungericht Gießen: Eilantrag des DGB Hessen/Thüringen gegen räumliche Beschränkungen der für den 29. und 30. November 2025 geplanten Versammlungen erfolglos](/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungericht-Gie%C3%9Fen-Eilantrag-des-DGB-Hessen-Th%C3%BCringen-gegen-r%C3%A4umliche-Beschr%C3%A4nkungen-der-f%C3%BCr-den-29-und-30-November-2025-geplanten-Versammlungen-erfolglos.php?object=tx,2874.5&ModID=7&FID=2874.74746.1&NavID=1894.87.1)
+
+------------------------------------------------------------------------
+
 25.11.2025
 
 #### [Park+Ride-Shuttleservice in die Gießener Innenstadt am letzten Novemberwochenende](/Rathaus/Newsroom/Aktuelle-Meldungen/Park-Ride-Shuttleservice-in-die-Gie%C3%9Fener-Innenstadt-am-letzten-Novemberwochenende.php?object=tx,2874.5&ModID=7&FID=2874.74741.1&NavID=1894.87.1)
