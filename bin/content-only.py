@@ -1,6 +1,9 @@
 import bs4
+import sys
 
-main = bs4.BeautifulSoup(open('giessen.de/index.html', 'rb')).find('article')
+directory = sys.argv[1]
 
-with open('giessen.de/faq.content-only.html', 'wb+') as fp:
+main = bs4.BeautifulSoup(open(f'{directory}/index.html', 'rb')).find('article')
+
+with open(f'{directory}/faq.content-only.html', 'wb+') as fp:
     fp.write(bytes(str(main), 'utf-8'))
