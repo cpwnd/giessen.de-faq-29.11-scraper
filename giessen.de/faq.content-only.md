@@ -1,7 +1,8 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 24.11.2025 um 12:30 Uhr, Letzte Änderungen:
-Kontakt (Hotline); Schule und Sport; Situation in der Weststadt –  
+*– Zuletzt aktualisiert am 26.11.2025 um  07:56 Uhr, Letzte Änderungen:
+Verkehr, Mobilität und Erreichbarkeit (Shuttleservice); Kontakt
+(Hotline) –  
 *
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
@@ -65,13 +66,13 @@ Ausübung der Grundrechte zu wahren und zu garantieren.
 
 ## Was sagt die Stadtpolitik dazu?
 
-Die Stadtverordnetenversammlung will mit der Resolution „Gießen steht
+Die Stadtverordnetenversammlung bezieht mit der Resolution „Gießen steht
 zusammen: Gemeinsam für Demokratie und Vielfalt - gegen Extremismus“ -
 Antrag (Resolution) der Fraktionen Bündnis 90/Die Grünen, CDU, SPD,
 Gießener LINKE, Gigg+Volt, FDP, FW und des fraktionslosen
-Stadtverordneten Walter Stellung beziehen (Abstimmung am 20. November)
+Stadtverordneten Walter Stellung.
 
-Antrag:
+Beschluss:
 
 > „Die Stadtverordnetenversammlung Gießen bedauert und missbilligt, dass
 > die Gründung der AfDJugend in einer privat betriebenen
@@ -172,22 +173,28 @@ möglich sein.
 Der Bahnverkehr wird nach jetzigem Kenntnisstand der Stadt planmäßig
 verkehren können.
 
-Am Samstag, 28. November, und Sonntag, 29. November 2025, stehen die
+Am Samstag, 29. November, und Sonntag, 30. November 2025, stehen die
 Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
 (Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
 Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
 Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
 Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
 von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
-Minuten Busse in Richtugn Innenstadt fahren (Philosophikum I und II:
-Haltestelle „Philosophikum“, Kreisverwaltung: Haltestelle
-„Kreisverwaltung“, Juridikum: Haltestelle „Friedensstraße“,
-Naturwissenschaften: Haltestelle „Naturwissenschaften“). In der
-Grünberger Straße wird in der Nähe des Berliner Platzes eine zentrale
-Ersatzhaltestelle eingerichtet.
+Minuten entweder ein Linien- oder ein Shuttlebus in Richtung Innenstadt
+fahren (Philosophikum I und II: Haltestelle „Philosophikum“,
+Kreisverwaltung: Haltestelle „An der Automeile“, Juridikum: Haltestelle
+„Friedensstraße“, Naturwissenschaften: Haltestelle
+„Naturwissenschaften“). In der Grünberger Straße wird in der Nähe des
+Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
 
-Der P+R-Shuttle ist wie der gesamte Busverkehr in der Stadt Gießen am
-Samstag und Sonntag kostenlos nutzbar.
+Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
+kostenlos nutzbar. 
+
+- [Fahrplan Shuttle-Bus 807 -
+  Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
+
+- [Fahrplan Shuttle-Bus 808 - Unterhof +
+  Kreisverwaltung](/media/custom/2874_13622_1.PDF?1764088282)  209 kB
 
 ## Wo gibt es Parkplätze, wenn ich die Innenstadt besuchen will?
 
@@ -205,22 +212,28 @@ der Versammlungsteilnehmer/innen genutzt werden muss.
 Dafür stehen am Samstag und Sonntag die Parkanlagen der THM an der
 Ringallee für die Öffentlichkeit zur Verfügung. 
 
-Am Samstag, 28. November, und Sonntag, 29. November 2025, stehen die
+Am Samstag, 29. November, und Sonntag, 30. November 2025, stehen die
 Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
 (Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
 Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
 Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
 Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
 von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
-Minuten Busse in Richtugn Innenstadt fahren (Philosophikum I und II:
-Haltestelle „Philosophikum“, Kreisverwaltung: Haltestelle
-„Kreisverwaltung“, Juridikum: Haltestelle „Friedensstraße“,
-Naturwissenschaften: Haltestelle „Naturwissenschaften“). In der
-Grünberger Straße wird in der Nähe des Berliner Platzes eine zentrale
-Ersatzhaltestelle eingerichtet.
+Minuten entweder ein Linien- oder ein Shuttlebus in Richtung Innenstadt
+fahren (Philosophikum I und II: Haltestelle „Philosophikum“,
+Kreisverwaltung: Haltestelle „An der Automeile“, Juridikum: Haltestelle
+„Friedensstraße“, Naturwissenschaften: Haltestelle
+„Naturwissenschaften“). In der Grünberger Straße wird in der Nähe des
+Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
 
-Der P+R-Shuttle ist wie der gesamte Busverkehr in der Stadt Gießen am
-Samstag und Sonntag kostenlos nutzbar.
+Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
+kostenlos nutzbar. 
+
+- [Fahrplan Shuttle-Bus 807 -
+  Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
+
+- [Fahrplan Shuttle-Bus 808 - Unterhof +
+  Kreisverwaltung](/media/custom/2874_13622_1.PDF?1764088282)  209 kB
 
 ### Situation in der Weststadt (rund um die Hessenhallen)
 
