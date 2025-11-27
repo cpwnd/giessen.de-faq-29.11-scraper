@@ -1,8 +1,8 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 26.11.2025 um  07:56 Uhr, Letzte Änderungen:
-Verkehr, Mobilität und Erreichbarkeit (Shuttleservice); Kontakt
-(Hotline) –  
+*– Zuletzt aktualisiert am 27.11.2025 um  08:58 Uhr, Letzte Änderungen:
+Schule und Sport, Verkehr, Mobilität und Erreichbarkeit
+(Shuttleservice); Kontakt (Hotline) –  
 *
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
@@ -312,20 +312,43 @@ dem Rathausvorplatz geschlossen.
 
 ## Werden die Veranstaltungen Auswirkungen auf die Gießener Schulen haben?
 
-Der Unterricht am Freitag, den 28.11.2025, endet in den Schulen in
-Trägerschaft der Stadt Gießen spätestens um 13:00 Uhr. Das schließt auch
-das Betreuungsangebot für den Nachmittag mit ein. Damit soll es allen
-Schüler/innen (gerade auch den auswärtigen Schüler/innen) ermöglicht
-werden, zuverlässig zum Beispiel mit dem Bus bei Tageslicht nach Hause
-zu kommen.
+Am Freitag, 28.11.2025, wird für die Schulen im Innenstadtbereich und
+für die Schulen der Stadtteile in unmittelbarer Nähe zur Innenstadt die
+Präsenzpflicht ausgesetzt.
+
+Das heißt:
+
+Die Eltern können entscheiden, ob sie ihre Kinder morgens zum Unterricht
+schicken oder nicht und ihre Entscheidung dann (wie bei einer
+Krankmeldung) der Schule gegenüber über die üblichen Kommunikationswege
+anzeigen.
+
+Entsprechendes gilt für volljährige Schülerinnen und Schüler.
+
+Ein Unterrichtsangebot bzw. eine Betreuung bis 13 Uhr wird in den
+Schulen eingerichtet.
+
+Die Schülerinnen und Schüler sowie die Eltern der Schulen werden über
+das Aussetzen der Präsenzpflicht sowie etwaige Besonderheiten an Ihrer
+Schule umgehend informiert.
+
+Diese Entscheidung erfolgte nicht aufgrund einer besonderen
+Gefahrenlage, sondern um etwaigen Kapazitätsproblemen bei der
+Schülerbeförderung an diesem Tag vorzubeugen.
+
+Ausgenommen von dieser Regelung sind die Schulen der Stadtteile
+Gießen-Kleinlinden, Gießen-Lützellinden, Gießen-Allendorf und
+Gießen-Rödgen. Dort besteht weiterhin Präsenzpflicht. Der Unterricht
+endet aber auch dort um 13 Uhr.
 
 ## Gibt es Einschränkungen für den Sport am Wochenende?
 
 Von Einschränkungen sind nach derzeitigem Stand nur die Sporthallen rund
 um das Messegelände beziehungsweise im westlichen Innenstadtbereich
 (siehe Frage Weststadt) und der Wiesecker Festplatz an der Sporthalle
-Wieseck „Am Ried“ (Philosophenstraße 24 B, 35396 Gießen) betroffen. Alle
-betroffenen Vereine sind informiert.
+Wieseck „Am Ried“ (Philosophenstraße 24 B, 35396 Gießen) betroffen. Der
+Parkplatz des Wiesecker Sportgeländes steht am Wochenende nicht zur
+Verfügung. Alle betroffenen Vereine sind informiert.
 
 Folgende Hallen sind von Freitag bis einschließlich Sonntag geschlossen:
 
