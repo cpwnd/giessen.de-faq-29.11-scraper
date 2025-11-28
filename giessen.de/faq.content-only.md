@@ -1,8 +1,8 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 27.11.2025 um  08:58 Uhr, Letzte Änderungen:
-Schule und Sport, Verkehr, Mobilität und Erreichbarkeit
-(Shuttleservice); Kontakt (Hotline) –  
+*– Zuletzt aktualisiert am 27.11.2025 um 15:45 Uhr, Letzte Änderungen:
+Allgemeine Informationen; Sicherheit und Ordnung; Verkehr, Mobilität und
+Erreichbarkeit; Innenstadtleben; Schule und Sport –  
 *
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
@@ -36,10 +36,18 @@ Allgemeine Informationen zu den Veranstaltungen und Versammlungen
 Am 29. November 2025 findet in den Hessenhallen in Gießen die Gründung
 einer neuen AfD-Jugendorganisation statt. Als Reaktion darauf wurden
 mehrere Gegendemonstrationen im Stadtgebiet angemeldet. Die Veranstalter
-der Gegendemonstrationen erwarten selbst über 10.000 Teilnehmende, wir
-rechnen aktuell damit, dass diese Zahl deutlich überschritten wird.
-Belastbare Zahlen, wie viele Menschen genau nach Gießen kommen werden,
-liegen uns aktuell aber nicht vor.
+der Gegendemonstrationen erwarten selbst rund 50.000 Teilnehmende.
+
+Eine Übersicht zu den angemeldeten Demonstrationsrouten finden Sie hier:
+
+[![Übersicht Demonstrationsrouten
+29.11.](/output/options.php?call=preview&ModID=6&FID=2874.13640.1&format=g "Übersicht Demonstrationsrouten 29.11.")](/media/custom/2874_13640_1.PDF?1764254560 "Übersicht Demonstrationsrouten 29.11.")
+
+### [Übersicht Demonstrationsrouten 29.11.](/media/custom/2874_13640_1.PDF?1764254560)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 1.3 MB
 
 Zudem findet neben dem Wochenmarkt auch der Weihnachtsmarkt in der
 Innenstadt statt und am ersten Adventswochenende ist erfahrungsgemäß mit
@@ -125,8 +133,20 @@ Demonstrations-Routen entlang des Anlagenrings und aufgrund auch anderer
 Versammlungsorte wird die Innenstadt einschließlich des Anlagenrings als
 Verteiler selbst über weite Teile nicht mit dem Auto befahrbar sein.
 
-Deshalb bereitet die Stadt aktuell ein Park+Ride-Angebot als Alternative
-vor. Nähere Informationen dazu werden hier demnächst veröffentlicht.
+Weitere Informationen zu Verkehr und ÖPNV finden Sie unter "Vekehr,
+Mobilität und Erreichbarkeit".  
+  
+Hier finden Sie eine Übersicht zu den geplanten Demonstrationsrouten am
+29. November:
+
+[![Übersicht Demonstrationsrouten
+29.11.](/output/options.php?call=preview&ModID=6&FID=2874.13640.1&format=g "Übersicht Demonstrationsrouten 29.11.")](/media/custom/2874_13640_1.PDF?1764254560 "Übersicht Demonstrationsrouten 29.11.")
+
+### [Übersicht Demonstrationsrouten 29.11.](/media/custom/2874_13640_1.PDF?1764254560)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 1.3 MB
 
 ## Ist sichergestellt, dass Rettungsdienste und Feuerwehr durchkommen, falls bei mir zu Hause etwas passiert?
 
@@ -135,16 +155,28 @@ für alle Sicherheitskräfte. Darauf sind alle Einsatzkräfte eingestellt.
 
 ### Verkehr, Mobilität und Erreichbarkeit
 
+[Zu den FAQs für den öffentlichen
+Nahverkehr](/index.php?La=1&object=tx,2874.74748.1&kuo=2&sub=0)
+
 ## Werden Straßen oder Bereiche am 29. / 30. November für den Autoverkehr gesperrt?
 
 Ja. Durch die nötige Sicherung von Demonstrationsrouten und um genügend
 sicherheitsrelevanten Bewegungsraum für die vielen erwarteten Menschen
-und Einsatzkräfte zu haben, ist zum jetzigen Stand davon auszugehen,
-dass es zu Sperrungen, auch in der Innenstadt, kommen wird. Wir gehen
-bislang davon aus, dass weite Teile des Anlagenrings für den Verkehr
-gesperrt sein werden. Auch rund um den Bahnhof sowie in der Weststadt
-wird der Autoverkehr weitgehend eingeschränkt. Nähere Informationen zu
-den Sperrungen und Einschränkungen folgen.
+und Einsatzkräfte zu haben, wird es zu Sperrungen, auch in der
+Innenstadt, kommen. Weite Teile des Anlagenrings werden für den Verkehr
+gesperrt sein. Auch rund um den Bahnhof sowie in der Weststadt wird der
+Autoverkehr weitgehend eingeschränkt. 
+
+Eine Übersicht über die Sperrungen finden Sie hier:
+
+[![Vekehrseinschränkungen am 29. und 30.
+November](/output/options.php?call=preview&ModID=6&FID=2874.13639.1&format=g "Vekehrseinschränkungen am 29. und 30. November")](/media/custom/2874_13639_1.PDF?1764253902 "Vekehrseinschränkungen am 29. und 30. November")
+
+### [Vekehrseinschränkungen am 29. und 30. November](/media/custom/2874_13639_1.PDF?1764253902)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 2.6 MB
 
 ## Kann man mit dem Auto in die Innenstadt?
 
@@ -160,6 +192,38 @@ zu parken.
 Für die Weststadt rechnen wir zum jetzigen Stand mit Behinderungen und
 Sperrungen. (Siehe Frage Weststadt). Zu den Sperrzeiträumen werden
 zeitnah nähere Informationen veröffentlicht.
+
+Am Samstag, 29. November, und Sonntag, 30. November 2025, stehen die
+Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
+(Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
+Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
+Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
+Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
+von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
+Minuten entweder ein Linien- oder ein Shuttlebus in Richtung Innenstadt
+fahren (Philosophikum I und II: Haltestelle „Philosophikum“,
+Kreisverwaltung: Haltestelle „An der Automeile“, Juridikum: Haltestelle
+„Friedensstraße“, Naturwissenschaften: Haltestelle
+„Naturwissenschaften“). In der Grünberger Straße wird in der Nähe des
+Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
+
+Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
+kostenlos nutzbar. 
+
+[![P+R-Konzept am
+29.+30.11.](/output/options.php?call=preview&ModID=6&FID=2874.13638.1&format=g "P+R-Konzept am 29.+30.11.")](/media/custom/2874_13638_1.PDF?1764253365 "P+R-Konzept am 29.+30.11.")
+
+### [P+R-Konzept am 29.+30.11.](/media/custom/2874_13638_1.PDF?1764253365)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 637 kB
+
+- [Fahrplan Shuttle-Bus 807 -
+  Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
+
+- [Fahrplan Shuttle-Bus 808 - Unterhof +
+  Kreisverwaltung](/media/custom/2874_13622_1.PDF?1764088282)  209 kB
 
 ## Wie wird der Bus- und Bahnverkehr in der Stadt an diesem Wochenende geregelt?
 
@@ -189,6 +253,9 @@ Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
 
 Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
 kostenlos nutzbar. 
+
+Detaillierte Infos zum ÖPNV finden Sie hier: [FAQs
+Nahverkehr](/index.php?La=1&object=tx,2874.74748.1&kuo=2&sub=0)
 
 - [Fahrplan Shuttle-Bus 807 -
   Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
@@ -228,6 +295,15 @@ Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
 
 Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
 kostenlos nutzbar. 
+
+[![P+R-Konzept am
+29.+30.11.](/output/options.php?call=preview&ModID=6&FID=2874.13638.1&format=g "P+R-Konzept am 29.+30.11.")](/media/custom/2874_13638_1.PDF?1764253365 "P+R-Konzept am 29.+30.11.")
+
+### [P+R-Konzept am 29.+30.11.](/media/custom/2874_13638_1.PDF?1764253365)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 637 kB
 
 - [Fahrplan Shuttle-Bus 807 -
   Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
@@ -284,6 +360,101 @@ Der Bereich Zu den Mühlen / Vitanas wird voraussichtlich über die
 Bootshausstraße und den Dammdurchstich zur Dammstraße erreichbar sein.
 
 ### Weihnachtsmarkt und Innenstadtleben
+
+## Kann man mit dem Auto in die Innenstadt?
+
+Wir gehen davon aus, dass die Innenstadt nicht durchfahrbar sein wird.
+Daher bittet die Stadt darum, das Gebiet zu umfahren, wenn man Ziele
+außerhalb der Innenstadt erreichen möchte.
+
+Anwohner/innen können einfahren, müssen aber mit Behinderungen rechnen.
+Wie vom Faschings-Umzug bekannt, bietet es sich an, an diesem Wochenende
+auf das Auto in dem Gebiet zu verzichten oder es außerhalb des Zentrums
+zu parken.
+
+Für die Weststadt rechnen wir zum jetzigen Stand mit Behinderungen und
+Sperrungen. (Siehe Frage Weststadt). Zu den Sperrzeiträumen werden
+zeitnah nähere Informationen veröffentlicht.
+
+Am Samstag, 29. November, und Sonntag, 30. November 2025, stehen die
+Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
+(Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
+Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
+Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
+Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
+von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
+Minuten entweder ein Linien- oder ein Shuttlebus in Richtung Innenstadt
+fahren (Philosophikum I und II: Haltestelle „Philosophikum“,
+Kreisverwaltung: Haltestelle „An der Automeile“, Juridikum: Haltestelle
+„Friedensstraße“, Naturwissenschaften: Haltestelle
+„Naturwissenschaften“). In der Grünberger Straße wird in der Nähe des
+Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
+
+Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
+kostenlos nutzbar. 
+
+[![P+R-Konzept am
+29.+30.11.](/output/options.php?call=preview&ModID=6&FID=2874.13638.1&format=g "P+R-Konzept am 29.+30.11.")](/media/custom/2874_13638_1.PDF?1764253365 "P+R-Konzept am 29.+30.11.")
+
+### [P+R-Konzept am 29.+30.11.](/media/custom/2874_13638_1.PDF?1764253365)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 637 kB
+
+- [Fahrplan Shuttle-Bus 807 -
+  Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
+
+- [Fahrplan Shuttle-Bus 808 - Unterhof +
+  Kreisverwaltung](/media/custom/2874_13622_1.PDF?1764088282)  209 kB
+
+## Wo gibt es Parkplätze, wenn ich die Innenstadt besuchen will?
+
+Nach jetzigem Kenntnisstand werden Parkplätze in der Innenstadt nicht
+oder nur sehr eingeschränkt erreichbar sein. Voraussichtlich geöffnet
+sind:
+
+- Parkhaus Neustädter
+- Parkhaus Am Kino (Am Alten Gaswerk 5) über die Roonstraße
+
+Der Parkplatz auf dem Messeplatz an der Ringallee wird nicht zur
+Verfügung stehen, da er als Standplatz für die ankommenden Reisebusse
+der Versammlungsteilnehmer/innen genutzt werden muss.
+
+Dafür stehen am Samstag und Sonntag die Parkanlagen der THM an der
+Ringallee für die Öffentlichkeit zur Verfügung. 
+
+Am Samstag, 29. November, und Sonntag, 30. November 2025, stehen die
+Parkplätze der Justus-Liebig-Universität am Philosophikum I und II
+(Otto-Behaghel-Straße und Karl-Glöckner-Straße), an den
+Naturwissenschaften (Heinrich-Buff-Ring) und am Juridikum (Rechts- und
+Wirtschaftswissenschaften, Licher Straße) sowie der Parkplatz der
+Kreisverwaltung (An der Automeile) kostenlos zur Verfügung. Am Samstag
+von 10 bis 19 Uhr werden von diesen P+R-Parkplätzen mindestens alle 15
+Minuten entweder ein Linien- oder ein Shuttlebus in Richtung Innenstadt
+fahren (Philosophikum I und II: Haltestelle „Philosophikum“,
+Kreisverwaltung: Haltestelle „An der Automeile“, Juridikum: Haltestelle
+„Friedensstraße“, Naturwissenschaften: Haltestelle
+„Naturwissenschaften“). In der Grünberger Straße wird in der Nähe des
+Berliner Platzes eine zentrale Ersatzhaltestelle eingerichtet.
+
+Der gesamte Busverkehr ist in der Stadt Gießen am Samstag und Sonntag
+kostenlos nutzbar. 
+
+[![P+R-Konzept am
+29.+30.11.](/output/options.php?call=preview&ModID=6&FID=2874.13638.1&format=g "P+R-Konzept am 29.+30.11.")](/media/custom/2874_13638_1.PDF?1764253365 "P+R-Konzept am 29.+30.11.")
+
+### [P+R-Konzept am 29.+30.11.](/media/custom/2874_13638_1.PDF?1764253365)
+
+[Textanriss überspringen](#nr_2)
+
+PDF, 637 kB
+
+- [Fahrplan Shuttle-Bus 807 -
+  Philosophikum](/media/custom/2874_13623_1.PDF?1764088282)  88 kB
+
+- [Fahrplan Shuttle-Bus 808 - Unterhof +
+  Kreisverwaltung](/media/custom/2874_13622_1.PDF?1764088282)  209 kB
 
 ## Haben die Geschäfte an diesem Wochenende geöffnet?
 
@@ -444,6 +615,12 @@ Datenschutzhinweis gelesen
 ------------------------------------------------------------------------
 
 ### Alle Pressemitteilungen der Stadt zum Thema 
+
+27.11.2025
+
+#### [Verwaltungsgericht Gießen: Eilantrag des Kreisverbandes der Partei DIE LINKE (Kreisverband Gießen) gegen räumliche Beschränkungen der für den 29. November 2025 geplanten Versammlung erfolgreich](/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsgericht-Gie%C3%9Fen-Eilantrag-des-Kreisverbandes-der-Partei-DIE-LINKE-Kreisverband-Gie%C3%9Fen-gegen-r%C3%A4umliche-Beschr%C3%A4nkungen-der-f%C3%BCr-den-29-November-2025-geplanten-Versammlung-erfolgreich.php?object=tx,2874.5&ModID=7&FID=2874.74754.1&NavID=1894.87.1)
+
+------------------------------------------------------------------------
 
 26.11.2025
 
