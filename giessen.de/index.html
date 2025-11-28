@@ -1569,7 +1569,7 @@
                     
                                            
                     <li class="cards flex-col-3" data-ikiss-mfid="6.684.19983.1">
-                                                         <a href="/index.php?La=1&ffsm=1&object=tx,684.15392.1&kat=&kuo=2&sub=0&mNavID=1894.7&sNavID=1894.7">
+                                                         <a href="/index.php?La=1&object=tx,684.15392.1&kat=&kuo=2&sub=0&mNavID=1894.7&sNavID=1894.7">
                                                               <div class="image">
                                                                                   <div class="bg-img" style="background-image:url('/output/img.php?id=684.19983.1&amp;fm=g&amp;mfm=m');">
                                                 <img class="hide" src="/output/img.php?id=684.19983.1&amp;fm=g&amp;mfm=m" alt="Giessen App">
@@ -1840,7 +1840,59 @@
 		<link rel="alternate" type="application/rss+xml" title="Verkehrsversuch Aktuell" href="https://www.giessen.de/media/rss/Verkehrsversuch.xml"/>
 
 		<link rel="alternate" type="application/rss+xml" title="Stellenangebote" href="https://www.giessen.de/media/rss/Stellenangebote.xml"/>
-         
+          
+<script>
+  //Notfalltext-Cookie
+  $(function(){
+    
+    if (!$('.akut-wrapper').get(0))
+      return;
+    
+    if (ikiss_basic.getCookie("akutmeldung") != 1) {
+      $('.akut-wrapper').addClass('show');
+      $('body').addClass('notfall');
+      
+      $('.akut-wrapper a').on('click', function() {
+      	var href = $(this).attr('href');
+      	if (!/mailto/.test(href)) {
+      	  ikiss_basic.setCookie("akutmeldung","1");
+      	}
+      })
+      
+      //ikiss_basic.setCookie("akutmeldung","1");
+    }
+        
+    //Schließen-Knopf
+    $(".closed-button").click(function(){
+      $('.akut-wrapper').removeClass('show');
+      $('body').removeClass('notfall');
+      ikiss_basic.setCookie("akutmeldung","1");
+      return false;
+    });
+  });
+</script>
+
+<div class="akut-wrapper">
+  <div class="akut-bg"></div>
+  <div class="akut">
+    <div class="akut-header">
+      <div class="back-to-start">
+        <a class="closed-button" href="#" alt="Nachricht schließen"><i class="fa fa-times"></i><span class="sr-only">Nachricht schließen</span></a>
+        <noscript>
+          <a href="/" title="zur Startseite" class="btn">Bei fehlender Javascript-Unterstützung des Browser gelangen Sie über diesen Link zur Startseite</a>
+        </noscript>
+      </div>
+    </div>
+    <div class="akut-content" >
+      <div style="display:inline">
+<h4><em class="fa fa-info-circle"></em>&nbsp; &nbsp;Alle Information im Liveticker</h4>
+<p>Aktuelle st&auml;dtische Informationen zu den Auswirkungen der Veranstaltungen und Versammlungen am 29. und 30. November finden Sie in unserem Liveticker.</p>
+<p class="btn"><a target="_self" href="/index.php?La=1&amp;object=tx,2874.74742.1&amp;kuo=2&amp;NavID=1894.6&amp;sub=0" class="csslink_intern">Zum Ticker</a></p>
+</div>
+    </div>
+  </div>
+</div>
+ 
 </body>
 </html>
-<!-- Cache: 2025-11-28 13:40:04 -->
+<!-- Cache: 2025-11-28 17:50:08 -->
