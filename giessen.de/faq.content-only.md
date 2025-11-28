@@ -1,8 +1,8 @@
 ## Infos zu den Auswirkungen der Demonstrationen am 29./30. November in Gießen
 
-*– Zuletzt aktualisiert am 27.11.2025 um 15:45 Uhr, Letzte Änderungen:
-Allgemeine Informationen; Sicherheit und Ordnung; Verkehr, Mobilität und
-Erreichbarkeit; Innenstadtleben; Schule und Sport –  
+*– Zuletzt aktualisiert am 28.11.2025 um 08:43, Letzte Änderungen: FAQs
+ÖPNV; Allgemeine Informationen; Sicherheit und Ordnung; Innenstadtleben;
+Schule und Sport –  
 *
 
 Das letzte November-Wochenende in Gießen bekommt schon heute bundesweite
