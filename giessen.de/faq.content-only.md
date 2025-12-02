@@ -573,44 +573,11 @@ Seiten werden regelmäßig aktualisiert. Folgen Sie auch unseren Social
 Media Kanälen und teilen Sie die Informationen gerne im Familien-,
 Freundes- und Bekanntenkreis.
 
-## Kontakt für Fragen
+Unsere gemeinsame Hotline mit der Polizei steht Ihnen Donnerstag bis
+Samstag von 8 bis 20 Uhr sowie Sonntag von 8 bis 14 Uhr für Fragen, die
+nicht in unseren FAQs beantwortet wurden, zur Verfügung:
 
-Unsere gemeinsame **Hotline mit der Polizei** steht Ihnen montags bis
-mittwochs von 8 bis 16 Uhr sowie donnerstags bis sonntags von 8 bis 20
-Uhr für Fragen, die nicht in unseren FAQs beantwortet wurden, zur
-Verfügung:
-
-### **0641 306 1122**
-
-------------------------------------------------------------------------
-
-**Alternativ können Sie gerne unser Kontaktformular nutzen: **
-
-Kontakt
-
-Ihr Name\*
-
-Ihre E-Mail-Adresse\*
-
-Ihre Frage\*
-
-## Datenschutzhinweis\*
-
-Es ist mir bewusst, dass die hier freiwillig erfassten Daten
-automatisiert verarbeitet werden. Ich stimme zu, dass die Stadt Gießen
-meine auf diese Weise übermittelten personenbezogenen Daten
-ausschließlich für den Zweck, zu dem ich sie bei der Kontaktierung zur
-Verfügung gestellt habe, verwendet. Weitere Hinweise zur Datenerhebung
-und -speicherung in der
-[Datenschutzerklärung](/Kurzmen%C3%BC/Datenschutz/). 
-
-Datenschutzhinweis gelesen
-
- 
-
-   
-
-(Mit \* gekennzeichnete Felder sind Pflichtfelder)
+### 0641 306 1122
 
 ------------------------------------------------------------------------
 
